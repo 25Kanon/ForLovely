@@ -1,7 +1,11 @@
+import React, { useEffect } from 'react';
 import '../App.css';
 import Lottie from 'react-lottie';
 
 function Hero() {
+  useEffect(() => {
+    document.title = 'For Lovely';
+  }, []);
   return (
     <div className="hero min-h-screen bg-base-200">
     <div className="hero-content flex-col lg:flex-row">
