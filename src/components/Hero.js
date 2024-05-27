@@ -14,10 +14,10 @@ function Hero() {
         very special to me; and you mean everything to me. I may not be the perfect boyfriend existing but I'm trying to be the one that will make you happy.          
         </p>
         </article>
-        <button className="btn btn-primary">
+        <a className="btn btn-primary" href='#tl'>
           <Lottie className="h-6 w-6" options={{ loop: true, autoplay: true, animationData: require('../media/heart.json') }} height={50} width={50} />
           Discover How much I love you
-          </button>
+          </a>
 
       </div>
        </div>
