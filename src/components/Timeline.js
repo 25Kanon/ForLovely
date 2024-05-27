@@ -3,7 +3,7 @@ import Lottie from 'react-lottie';
 
 function Timeline() {
     return (
-        <div className='min-h-screen bg-base-200 px-5'>
+        <div className='min-h-screen bg-base-200 px-5' id='tl'>
             <div className="hero-content flex-col lg:flex-row py-6">
                 <h1 className="text-xl font-black text-base-content">The Perfect Recipe</h1>
             </div>
