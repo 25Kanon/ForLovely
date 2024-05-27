@@ -19,7 +19,7 @@ function Apology() {
 
           <br></br>
           Right now I'm fixing my mistake, I am unfollowing them now. I am sorry for the pain that I caused you.
-          I won't waste the chance you gave me, I will be the man that you deserve. Even though I did'nt cheat on you,
+          I won't waste the chance you gave me, I will be the man that you deserve. Even though I didn't cheat on you,
           I caused you pain and Insecurity. I am truly sorry for that.
 
           <br></br>
